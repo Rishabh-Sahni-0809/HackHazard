@@ -26,7 +26,7 @@ DAVE can interact with you through voice and text commands, handle your system t
 `CodeCrafters`
 
 ### Team Members:  
-- Rishabh Sahni (GitHub / LinkedIn / Role)  
+- Rishabh Sahni ([GitHub](https://github.com/Rishabh-Sahni-0809) / [LinkedIn](https://www.linkedin.com/in/rishabh-sahni-15854a237/) / [Role](leader))  
 - Ishita Gupta  
 - Mahak Matle
 - Prince Sahu
@@ -91,15 +91,32 @@ Add images, GIFs, or screenshots if helpful!
 ## 🧪 How to Run the Project
 
 ### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
+-pyttsx3
+-speechrecognition
+-wikipedia
+-wolframalpha
+-google-news
+-opencv-python
+-pywin32
+-fuzzywuzzy
+-python-Levenshtein
+-requests
+-groq
+-pynput
+-Pillow
+-pytesseract
+-plyer
+-tkinter
+-pyautogui
+-speedtest-cli
+-pygame
+
 
 ### Local Setup:
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/DAVE-AI.git
-cd DAVE-AI
+git clone https://github.com/Rishabh-Sahni-0809/HackHazard.git
+cd HackHazard
 
 
 # Install dependencies
